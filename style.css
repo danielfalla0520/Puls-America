@@ -1,0 +1,14 @@
+
+header nav
+{
+	border-radius: 5px;
+	box-shadow: 0 5px 5px blue;
+}
+header nav ul li a
+{
+	font-color: rgba(0,0,10,4);
+	font-size: 25px;
+	list-style: none;
+	text-shadow : 0 5px 5px black;
+	text-decoration: none;
+}
